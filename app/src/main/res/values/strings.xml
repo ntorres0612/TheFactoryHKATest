@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">TheFactoryHKATest</string>
+
+
+    <string name="text_generate_invoice" translatable="false">Información del cliente</string>
+    <string name="text_emitter_info" translatable="false">Información del emisor</string>
+    <string name="customer_document" translatable="false">Cédula del cliente</string>
+    <string name="customer_name">Nombre del cliente</string>
+    <string name="customer_lastname">Apellido del cliente</string>
+    <string name="emitter_business_name">Razón social</string>
+
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="action_back">Atras</string>
+
+    <string name="hint_code">Código</string>
+    <string name="hint_quantity">Cantidad</string>
+    <string name="hint_description_product">Descripción del producto</string>
+    <string name="hint_price">Precio</string>
+
+</resources>

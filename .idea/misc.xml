@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.23713826366559485" />
+        <entry key="app/src/main/res/drawable/book_item.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.1375" />
+        <entry key="app/src/main/res/drawable/button_green.xml" value="0.2155" />
+        <entry key="app/src/main/res/drawable/centre_background.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_increment.xml" value="0.246" />
+        <entry key="app/src/main/res/drawable/ic_login_bk.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/login_shape_bk.xml" value="0.2085" />
+        <entry key="app/src/main/res/layout/activity_create_invoice.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_emitter.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.21071405825407596" />
+        <entry key="app/src/main/res/layout/activity_home_view.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/activity_invoice.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_resume_invoice.xml" value="0.34326477050781246" />
+        <entry key="app/src/main/res/layout/activity_search_invoice.xml" value="0.18614130434782608" />
+        <entry key="app/src/main/res/layout/book_item.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.17858581542968752" />
+        <entry key="app/src/main/res/layout/customer_activity.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/customer_view.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/emitter_activity.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/emitter_view.xml" value="0.25186767578125" />
+        <entry key="app/src/main/res/layout/fragment_booksearch.xml" value="0.18614130434782608" />
+        <entry key="app/src/main/res/layout/invoice_view.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/item_product.xml" value="0.3522867737948084" />
+        <entry key="app/src/main/res/layout/item_product_search_invoice.xml" value="0.5496109008789063" />
+        <entry key="app/src/main/res/layout/layout_login.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/layout_register.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/menu_search_invoice.xml" value="0.10989583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
